@@ -1,4 +1,5 @@
 # Quick Find Algorithm
+# Every item points to its root
 
 import time
 
